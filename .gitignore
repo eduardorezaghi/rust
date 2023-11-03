@@ -1,0 +1,8 @@
+# Rust
+target/
+
+# Exclude compiled executables in all OSes
+*.exe
+*.pdb
+*.dSYM/
+*.elf
